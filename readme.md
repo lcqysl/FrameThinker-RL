@@ -38,6 +38,16 @@ FrameThinker is a novel framework for long-video reasoning that challenges the i
 bash examples/agent/train_frame_thinker.sh
 ```
 
+### 🤝 Merge Checkpoints
+
+```bash
+python merge_script.py \
+    --backend fsdp \
+    --hf_model_path /path/to/original/hf-model \
+    --local_dir /path/to/your/checkpoints \
+    --target_dir /path/to/save/merged_hf_model
+```
+
 ### 🚀 Inference & Evaluation
 
 ```bash
