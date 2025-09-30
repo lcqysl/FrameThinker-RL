@@ -32,6 +32,12 @@ FrameThinker is a novel framework for long-video reasoning that challenges the i
 *   transformers==4.52.4
 *   Other dependencies listed in `requirements.txt`
 
+### 💾 Data
+
+Our training data is sourced from the following open-source projects:
+
+**[LongVideoReason](https://github.com/NVlabs/Long-RL)**, **[Video-R1](https://github.com/tulerfeng/Video-R1)**,  **[Video-Holmes](https://github.com/TencentARC/Video-Holmes)**, **[CG-Bench](https://github.com/CG-Bench/CG-Bench)**
+
 ### ⚙️ Training
 
 ```bash
