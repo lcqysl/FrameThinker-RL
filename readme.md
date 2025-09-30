@@ -11,6 +11,17 @@ FrameThinker is a novel framework for long-video reasoning that challenges the i
   <br>
   <em>An illustration of the FrameThinker framework.</em>
 </p>
+<p align="center">
+  <img src="assets/Demo.png" width="800" alt="FrameThinker Framework">
+  <br>
+  <em>An example of FrameThinker solving a reasoning task.</em>
+</p>
+
+<p align="center">
+  <img src="assets/Demo4.png" width="800" alt="FrameThinker Framework">
+  <br>
+  <em>An example of a multi-step reasoning process.</em>
+</p>
 
 ## 🚀 Getting Started
 
